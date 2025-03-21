@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "4.0.12",
-    "next": "15.2.2",
+    "next": "15.2.3",
     "react": "^19.0.0",
     "react-aria": "^3.38.1",
     "react-aria-components": "^1.7.1",
